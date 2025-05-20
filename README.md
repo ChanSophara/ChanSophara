@@ -54,6 +54,7 @@ MySQL • SQLite • PostgreSQL • NoSQL
 - 📧 sopharachan90@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chan-sophara-99a7692b7/)  
 - 🌐 [Portfolio Website](https://chansophara.github.io)
+- 🎞️ [Youtube channel](https://www.youtube.com/@chansophara8888)
 
 ---
 
