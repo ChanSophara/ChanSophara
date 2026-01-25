@@ -102,7 +102,7 @@ Passionate **Data Science** student specializing in transforming complex data in
 
 ## 📫 **Connect With Me**
 
-<p align="center">
+<p align="left">
   <a href="mailto:sopharachan90@gmail.com">
     <img src="https://img.shields.io/badge/📧%20Email-sopharachan90@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
