@@ -16,6 +16,9 @@
   <a href="https://chansophara.github.io">
     <img src="https://img.shields.io/badge/Portfolio-FF7139.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://www.youtube.com/@chansophara8888">
+    <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
   <a href="https://github.com/ChanSophara">
     <img src="https://komarev.com/ghpvc/?username=ChanSophara&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
   </a>
@@ -101,16 +104,19 @@ Passionate **Data Science** student specializing in transforming complex data in
 
 <p align="center">
   <a href="mailto:sopharachan90@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/32/732/732200.png" width="32" alt="Email">
-  </a> &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/📧%20Email-sopharachan90@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <br><br>
   <a href="https://www.linkedin.com/in/chan-sophara-99a7692b7/">
-    <img src="https://cdn-icons-png.flaticon.com/32/3536/3536505.png" width="32" alt="LinkedIn">
-  </a> &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-Chan%20Sophara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <br><br>
   <a href="https://chansophara.github.io">
-    <img src="https://cdn-icons-png.flaticon.com/32/1051/1051326.png" width="32" alt="Portfolio">
-  </a> &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-ChanSophara.github.io-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+  <br><br>
   <a href="https://www.youtube.com/@chansophara8888">
-    <img src="https://cdn-icons-png.flaticon.com/32/1384/1384060.png" width="32" alt="YouTube">
+    <img src="https://img.shields.io/badge/🎞️%20YouTube-@chansophara8888-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
