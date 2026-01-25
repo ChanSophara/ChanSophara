@@ -102,23 +102,10 @@ Passionate **Data Science** student specializing in transforming complex data in
 
 ## 📫 **Connect With Me**
 
-<p align="left">
-  <a href="mailto:sopharachan90@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-sopharachan90@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <br><br>
-  <a href="https://www.linkedin.com/in/chan-sophara-99a7692b7/">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-Chan%20Sophara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <br><br>
-  <a href="https://chansophara.github.io">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-ChanSophara.github.io-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-  <br><br>
-  <a href="https://www.youtube.com/@chansophara8888">
-    <img src="https://img.shields.io/badge/🎞️%20YouTube-@chansophara8888-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
+- 📧 sopharachan90@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chan-sophara-99a7692b7/)  
+- 🌐 [Portfolio Website](https://chansophara.github.io)
+- 🎞️ [Youtube channel](https://www.youtube.com/@chansophara8888)
 
 ---
 
