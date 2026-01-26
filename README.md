@@ -119,17 +119,16 @@ Passionate **Data Science** student specializing in transforming complex data in
 - 🌐 [Portfolio Website](https://chansophara.github.io)
 - 🎞️ [Youtube channel](https://www.youtube.com/@chansophara8888)
   
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" colspan="2">
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="125"/>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="125"/>
     </td>
   </tr>
 </table>
----
 
 <p align="center">
   <i>Let's collaborate and turn data into decisions!</i> ✨
