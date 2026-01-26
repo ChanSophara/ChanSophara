@@ -107,17 +107,6 @@ Passionate **Data Science** student specializing in transforming complex data in
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanSophara&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <!-- This will show GitHub Stats if streak fails -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ChanSophara&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <sub><em>If the streak stats don't load, <a href="https://streak-stats.demolab.com/demo/Chansophara">view them here</a></em></sub>
-</p>
-
 ---
 
 ## 📫 **Connect With Me**
