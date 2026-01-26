@@ -6,13 +6,16 @@
   🎓 Fifth-Year Data Science Student | ITC
 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l2eGxjY3Z2bXh6cGJ1a2F6bWZkZ3A1dDVhZm9nZ3M3Z3Z2YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="220" alt="Pixel developer working" />
-</p>
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@ChanSophara?theme=moebooru" alt="Profile Views Anime Counter" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l2eGxjY3Z2bXh6cGJ1a2F6bWZkZ3A1dDVhZm9nZ3M3Z3Z2YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="200" />
+    </td>
+    <td align="center">
+      <img src="https://count.getloli.com/get/@ChanSophara?theme=moebooru" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="mailto:sopharachan90@gmail.com">
