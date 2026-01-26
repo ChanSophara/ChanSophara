@@ -108,9 +108,14 @@ Passionate **Data Science** student specializing in transforming complex data in
 </p>
 
 <p align="center">
-  ![Total Contributions](https://img.shields.io/badge/Total_Contributions-1000+-blue?style=for-the-badge)
-![Current Streak](https://img.shields.io/badge/Current_Streak-10_days-green?style=for-the-badge)
-![Longest Streak](https://img.shields.io/badge/Longest_Streak-30_days-orange?style=for-the-badge)
+  <!-- This will show GitHub Stats if streak fails -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=ChanSophara&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><em>If the streak stats don't load, <a href="https://streak-stats.demolab.com/demo/Chansophara">view them here</a></em></sub>
 </p>
 
 ---
