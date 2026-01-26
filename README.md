@@ -9,10 +9,11 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l2eGxjY3Z2bXh6cGJ1a2F6bWZkZ3A1dDVhZm9nZ3M3Z3Z2YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="200" />
+      <img 
+        <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"/>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+      <img src="https://count.getloli.com/get/@ChanSophara?theme=moebooru" />
     </td>
   </tr>
 </table>
