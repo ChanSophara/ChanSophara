@@ -23,6 +23,10 @@
   </tr>
 </table>
 
+<td align="left">
+      <img src="https://count.getloli.com/get/@ChanSophara?theme=moebooru" width="200" />
+</td>
+
 
 
 <p align="center">
