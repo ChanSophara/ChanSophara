@@ -18,6 +18,9 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif" width="260" />
+</p>
 
 
 <p align="center">
