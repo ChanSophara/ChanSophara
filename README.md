@@ -89,6 +89,7 @@ Passionate **Data Science** student specializing in transforming complex data in
 
 ### **Tools & Deployment**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-639B0B?style=for-the-badge&logo=scrapy&logoColor=white)
