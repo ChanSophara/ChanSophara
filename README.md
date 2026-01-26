@@ -13,12 +13,12 @@
        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150"/>
     </td>
     <td align="center">
-      <img src="https://count.getloli.com/get/@ChanSophara?theme=moebooru" />
+      <img src="https://count.getloli.com/get/@ChanSophara?theme=moebooru" width="200" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif" width="500" />
+      <img src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif" width="350" />
     </td>
   </tr>
 </table>
