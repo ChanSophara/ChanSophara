@@ -108,7 +108,9 @@ Passionate **Data Science** student specializing in transforming complex data in
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ChanSophara&theme=radical&hide_border=true" alt="GitHub Streak" />
+  ![Total Contributions](https://img.shields.io/badge/Total_Contributions-1000+-blue?style=for-the-badge)
+![Current Streak](https://img.shields.io/badge/Current_Streak-10_days-green?style=for-the-badge)
+![Longest Streak](https://img.shields.io/badge/Longest_Streak-30_days-orange?style=for-the-badge)
 </p>
 
 ---
