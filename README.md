@@ -110,6 +110,17 @@ Passionate **Data Science** student specializing in transforming complex data in
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanSophara&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
+<table align="center">
+  
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="125"/>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="125"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📫 **Connect With Me**
