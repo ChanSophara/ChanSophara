@@ -129,7 +129,7 @@ Passionate **Data Science** student specializing in transforming complex data in
       <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="125"/>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="125"/>
+      <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="125"/>
     </td>
   </tr>
 </table>
