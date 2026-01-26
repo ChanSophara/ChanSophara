@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif" width="260" />
+      <img src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif" width="400" />
     </td>
   </tr>
 </table>
