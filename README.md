@@ -130,6 +130,9 @@ Passionate **Data Science** student specializing in transforming complex data in
   </tr>
 </table>
 
+
+---
+
 <p align="center">
   <i>Let's collaborate and turn data into decisions!</i> ✨
 </p>
