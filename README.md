@@ -118,6 +118,11 @@ Passionate **Data Science** student specializing in transforming complex data in
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chan-sophara-99a7692b7/)  
 - 🌐 [Portfolio Website](https://chansophara.github.io)
 - 🎞️ [Youtube channel](https://www.youtube.com/@chansophara8888)
+---
+<p align="center">
+  <i>Let's collaborate and turn data into decisions!</i> ✨
+</p>
+
 <table align="center">
   <tr>
     <td align="center" colspan="2">
@@ -128,7 +133,3 @@ Passionate **Data Science** student specializing in transforming complex data in
     </td>
   </tr>
 </table>
----
-<p align="center">
-  <i>Let's collaborate and turn data into decisions!</i> ✨
-</p>
