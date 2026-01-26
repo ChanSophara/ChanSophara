@@ -10,12 +10,12 @@
   
   <tr>
     <td align="center">
-      <img src="https://count.getloli.com/get/@ChanSophara?theme=moebooru" width="300" />
+      <img src="https://count.getloli.com/get/@ChanSophara?theme=moebooru" width="250" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif" width="300" />
+      <img src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif" width="250" />
     </td>
   </tr>
 </table>
