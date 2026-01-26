@@ -9,7 +9,6 @@
 <table align="center">
   
   <tr>
-    
     <td align="center">
       <img src="https://count.getloli.com/get/@ChanSophara?theme=moebooru" width="250" />
     </td>
