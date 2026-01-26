@@ -10,7 +10,7 @@
   <tr>
     <td align="center">
       <img 
-       <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+       <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
     </td>
     <td align="center">
       <img src="https://count.getloli.com/get/@ChanSophara?theme=moebooru" />
