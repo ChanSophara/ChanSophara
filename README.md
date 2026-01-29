@@ -107,7 +107,7 @@ Passionate **Data Science** student specializing in transforming complex data in
 
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=ChanSophara&show_icons=true&theme=radical&hide_border=true"
+       src="https://github-readme-stats.vercel.app/api?username=ChanSophara&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
        alt="GitHub stats" />
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanSophara&layout=compact&theme=radical&hide_border=true"
