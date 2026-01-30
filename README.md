@@ -110,13 +110,6 @@ Passionate **Data Science** student specializing in transforming complex data in
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChanSophara&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ChanSophara&theme=radical&hide_border=true" />
-</p>
-
-
-
 ## 📫 **Connect With Me**
 
 - 📧 sopharachan90@gmail.com  
@@ -124,13 +117,6 @@ Passionate **Data Science** student specializing in transforming complex data in
 - 🌐 [Portfolio Website](https://chansophara.github.io)
 - 🎞️ [Youtube channel](https://www.youtube.com/@chansophara8888)
 ---
-<table align="center">  
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
-    </td>
-  </tr>
-</table>
 <p align="center">
   <i>Let's collaborate and turn data into decisions!</i> ✨
 </p>
