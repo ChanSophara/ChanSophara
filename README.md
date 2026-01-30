@@ -106,11 +106,10 @@ Passionate **Data Science** student specializing in transforming complex data in
 ## 📈 **GitHub Stats**
 
 <p align="center">
-<img src="https://img.shields.io/github/commit-activity/m/ChanSophara?style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/ChanSophara?style=for-the-badge" />
-
-<img src="https://raw.githubusercontent.com/ChanSophara/ChanSophara/output/github-contribution-grid-snake.svg" />
-
+  <img src="https://img.shields.io/github/commit-activity/m/ChanSophara?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ChanSophara?style=for-the-badge" />
+  
+  <img src="https://raw.githubusercontent.com/ChanSophara/ChanSophara/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
