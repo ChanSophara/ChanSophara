@@ -112,7 +112,7 @@ Passionate **Data Science** student specializing in transforming complex data in
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=ChanSophara&theme=radical&hide_border=true" />
+    src="https://github-readme-streak-stats.demolab.com/?user=ChanSophara&theme=radical&hide_border=true" />
 </p>
 
 ## 📫 **Connect With Me**
