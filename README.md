@@ -106,12 +106,10 @@ Passionate **Data Science** student specializing in transforming complex data in
 ## 📈 **GitHub Stats**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChanSophara&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600&custom_title=ChanSophara's%20GitHub%20Stats"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChanSophara&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanSophara&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=daily" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChanSophara&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+  
+  <!-- Activity graph shows real-time contributions -->
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=ChanSophara&theme=radical&hide_border=true&area=true&custom_title=2026%20Contributions"/>
 </p>
 
 ## 📫 **Connect With Me**
