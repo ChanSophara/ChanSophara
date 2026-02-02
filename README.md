@@ -110,13 +110,7 @@ Passionate **Data Science** student specializing in transforming complex data in
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChanSophara&theme=radical&v=1"/>
 </p>
 <p align="left">
-  <!-- This always works because it's just badges -->
-  <a href="https://github.com/ChanSophara">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChanSophara&repo=ChanSophara&theme=radical" alt="GitHub Stats" />
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ChanSophara&color=dd2727&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ChanSophara?color=dd2727&style=flat-square" alt="GitHub Followers"/>
+  <img src="https://v1.awesome-github-stats.com/streak-stats/?user=ChanSophara&theme=radical&hide_border=true" />
 </p>
 
 ## 📫 **Connect With Me**
