@@ -106,10 +106,8 @@ Passionate **Data Science** student specializing in transforming complex data in
 ## 📈 **GitHub Stats**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChanSophara&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-  
-  <!-- Activity graph shows real-time contributions -->
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=ChanSophara&theme=radical&hide_border=true&area=true&custom_title=2026%20Contributions"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChanSophara&theme=radical&v=1"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChanSophara&theme=radical&v=1"/>
 </p>
 
 ## 📫 **Connect With Me**
