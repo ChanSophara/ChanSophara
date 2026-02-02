@@ -110,7 +110,7 @@ Passionate **Data Science** student specializing in transforming complex data in
 </p>
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ChanSophara&theme=radical&hide_border=true" />
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ChanSophara&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 
