@@ -110,11 +110,8 @@ Passionate **Data Science** student specializing in transforming complex data in
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChanSophara&theme=radical&v=1"/>
 </p>
 <p align="left">
-  <!-- This shows alternative text if image fails -->
-  <a href="https://github.com/ChanSophara">
-    <img src="https://streak-stats.demolab.com?user=ChanSophara&theme=radical" 
-         onerror="this.onerror=null; this.parentElement.innerHTML='<strong>🔥 Current Streak: Active</strong><br><small>GitHub Stats API is temporarily down</small>';"
-         alt="GitHub Streak Stats" />
+  <a href="https://skyline.github.com/ChanSophara/2026">
+    <img width="800" height="200" src="https://readme-skyline.vercel.app/api/ChanSophara/2026?theme=radical" alt="GitHub Skyline 2026"/>
   </a>
 </p>
 
