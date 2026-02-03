@@ -6,6 +6,11 @@
   🎓 Fifth-Year Data Science Student | ITC
 </h3>
 
+<p align="left">
+  <img height="180em" src="https://count.getloli.com/get/@ChanSophara?theme=moebooru"/>
+  <img height="180em" src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif"/>
+</p>
+
 <table align="center">
   
   <tr>
