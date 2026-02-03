@@ -107,18 +107,18 @@ Passionate **Data Science** student specializing in transforming complex data in
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chan-sophara-99a7692b7/)  
 - 🌐 [Portfolio Website](https://chansophara.github.io)
 - 🎞️ [Youtube channel](https://www.youtube.com/@chansophara8888)
----
 
 <table align="left">
   <tr>
-    <td align="center">
+    <td align="left">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l2eGxjY3Z2bXh6cGJ1a2F6bWZkZ3A1dDVhZm9nZ3M3Z3Z2YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="125" />
     </td>
-    <td align="center">
+    <td align="left">
       <img src="https://media.giphy.com/media/12XTNObsY1pWQU/giphy.gif" width="125" />
     </td>
   </tr>
 </table>
+---
 <p align="center">
   <i>Let's collaborate and turn data into decisions!</i> ✨
 </p>
