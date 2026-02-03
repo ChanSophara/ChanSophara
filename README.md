@@ -39,7 +39,7 @@
   </a>
 </p>
 
----
+
 
 ## 📊 **About Me**
 
@@ -57,7 +57,7 @@ Passionate **Data Science** student specializing in transforming complex data in
 | **🚦 Traffic Sign Detection** | `YOLOv8` `OpenCV` `Python` | Computer vision model for traffic sign classification |
 | **🏛️ Government Dashboard** | `Power BI` `SQL` `Python` | Interactive dashboards for government analytics |
 
----
+
 
 ## 🛠️ **Tech Stack**
 
