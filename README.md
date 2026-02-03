@@ -101,8 +101,6 @@ Passionate **Data Science** student specializing in transforming complex data in
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Kumu](https://img.shields.io/badge/Kumu.io-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
----
-
 ## 📫 **Connect With Me**
 
 - 📧 sopharachan90@gmail.com  
