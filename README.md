@@ -45,7 +45,7 @@
 
 Passionate **Data Science** student specializing in transforming complex data into actionable insights through **machine learning**, **computer vision**, and **interactive dashboards**. I enjoy building intelligent systems that solve real-world problems.
 
----
+
 
 ## 🚀 **Featured Projects**
 
