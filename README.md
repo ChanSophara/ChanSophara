@@ -109,5 +109,5 @@ Passionate **Data Science** student specializing in transforming complex data in
 - 🎞️ [Youtube channel](https://www.youtube.com/@chansophara8888)
 
 <p align="center">
-  <i>Let's collaborate and turn data into decisions!</i>
+  <i>Let's collaborate and turn data into decisions!</i>✨
 </p>
