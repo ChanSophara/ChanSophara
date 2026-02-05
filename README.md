@@ -123,9 +123,9 @@ Passionate **Data Science** student specializing in transforming complex data in
     </td>
   </tr>
 </table>
-<table align="left">
+<table align="center">
   <tr>
-    <td align="center">
+    <td align="left">
       <img src="https://media.giphy.com/media/12XTNObsY1pWQU/giphy.gif" width="250" />
     </td>
   </tr>
